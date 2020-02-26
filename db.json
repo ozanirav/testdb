@@ -1,34 +1,44 @@
 {
   "employees": [
     {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "first_name": "Jaydeep",
+      "last_name": "Dhokai",
+      "email": "jaydeep@amnex.com",
+      "employee_code": "1002",
+      "is_active": true,
+      "id": 2
     },
     {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
-    {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-    },
-    {
-      "id": 4,
       "first_name": "Nirav",
       "last_name": "Oza",
-      "email": "test@test.com"
+      "email": "nirav@amnex.com",
+      "employee_code": "1003",
+      "is_active": true,
+      "id": 4
     },
     {
-      "first_name": "test1",
-      "last_name": "test",
-      "email": "test@test.com",
+      "first_name": "Bhargav",
+      "last_name": "Gajjar",
+      "email": "bhargav@amnex.com",
+      "employee_code": "1004",
+      "is_active": false,
       "id": 5
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Khatri",
+      "email": "jay@amnex.com",
+      "employee_code": "1005",
+      "is_active": true,
+      "id": 6
+    },
+    {
+      "first_name": "Bhavik",
+      "last_name": "Solanki",
+      "email": "bhavik@amnex.com",
+      "employee_code": "1006",
+      "is_active": true,
+      "id": 7
     }
   ]
 }
